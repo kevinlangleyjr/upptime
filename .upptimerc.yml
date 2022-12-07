@@ -6,8 +6,6 @@ sites:
     url: https://kevinlangleyjr.dev
   - name: Kevin Langley Jr. Dot Com Redirect
     url: https://kevinlangleyjr.com
-    expectedStatusCodes:
-      - 302
   - name: Scrum.to Marketing Site
     url: https://scrum.to
   - name: Scrum.to App
