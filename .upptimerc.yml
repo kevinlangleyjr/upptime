@@ -4,6 +4,12 @@ repo: upptime
 sites:
   - name: Kevin Langley Jr.
     url: https://kevinlangleyjr.dev
+  - name: Kevin Langley Jr. Dot Com Redirect
+    url: https://kevinlangleyjr.com
+    expectedStatusCodes:
+      - 302
+  - name: Scrum.to Marketing Site
+    url: https://scrum.to
   - name: Scrum.to App
     url: https://app.scrum.to
   - name: Scrum.to API
@@ -12,8 +18,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: kevinlangleyjr.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kevin Langley Jr. Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
