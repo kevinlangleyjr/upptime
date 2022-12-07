@@ -16,8 +16,6 @@ sites:
     url: https://k3v0.com
   - name: k3v0.dev Redirect
     url: https://k3v0.dev
-  - name: ubergeni.us Redirect
-    url: https://ubergeni.us
   - name: Function Labs
     url: https://functionlabs.io
   - name: Scrum.to Marketing Site
