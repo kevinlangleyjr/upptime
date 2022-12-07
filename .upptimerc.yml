@@ -2,10 +2,16 @@ owner: kevinlangleyjr
 repo: upptime
 
 sites:
-  - name: Kevin Langley Jr. Main Site
+  - name: kevinlangleyjr.dev Main Site
     url: https://kevinlangleyjr.dev
   - name: kevinlangleyjr.com Redirect
     url: https://kevinlangleyjr.com
+  - name: kevinlangley.me Redirect
+    url: https://kevinlangley.me
+  - name: kevinlangley.dev Redirect
+    url: https://kevinlangley.dev
+  - name: jkevinlangley.com Redirect
+    url: https://jkevinlangley.com
   - name: k3v0.com Redirect
     url: https://k3v0.com
   - name: k3v0.dev Redirect
@@ -20,6 +26,8 @@ sites:
     url: https://app.scrum.to
   - name: Scrum.to API
     url: https://api.scrum.to
+  - name: Pin Basement
+    url: https://pinbasement.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
