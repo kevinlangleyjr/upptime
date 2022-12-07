@@ -2,10 +2,18 @@ owner: kevinlangleyjr
 repo: upptime
 
 sites:
-  - name: Kevin Langley Jr.
+  - name: Kevin Langley Jr. Main Site
     url: https://kevinlangleyjr.dev
-  - name: Kevin Langley Jr. Dot Com Redirect
+  - name: kevinlangleyjr.com Redirect
     url: https://kevinlangleyjr.com
+  - name: k3v0.com Redirect
+    url: https://k3v0.com
+  - name: k3v0.dev Redirect
+    url: https://k3v0.dev
+  - name: ubergeni.us Redirect
+    url: https://ubergeni.us
+  - name: Function Labs
+    url: https://functionlabs.io
   - name: Scrum.to Marketing Site
     url: https://scrum.to
   - name: Scrum.to App
