@@ -4,36 +4,40 @@
     "url": "https://kevinlangleyjr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.dev.ico",
     "slug": "kevinlangleyjr-dev-main-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 191,
     "timeDay": 211,
     "timeWeek": 252,
     "timeMonth": 191,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 4
+    }
   },
   {
     "name": "kevinlangleyjr.com Redirect",
     "url": "https://kevinlangleyjr.com",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.com.ico",
     "slug": "kevinlangleyjr-com-redirect",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 156,
     "timeDay": 216,
     "timeWeek": 190,
     "timeMonth": 156,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 4
+    }
   },
   {
     "name": "kevinlangley.me Redirect",
@@ -112,36 +116,39 @@
     "url": "https://k3v0.dev",
     "icon": "https://icons.duckduckgo.com/ip3/k3v0.dev.ico",
     "slug": "k3v0-dev-redirect",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 231,
     "timeDay": 259,
     "timeWeek": 240,
     "timeMonth": 231,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 2
+    }
   },
   {
     "name": "ubergeni.us Redirect",
     "url": "https://ubergeni.us",
     "icon": "https://icons.duckduckgo.com/ip3/ubergeni.us.ico",
     "slug": "ubergeni-us-redirect",
-    "status": "up",
-    "uptime": "90.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.29%",
-    "uptimeYear": "90.29%",
+    "status": "down",
+    "uptime": "90.28%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "90.28%",
     "time": 196,
     "timeDay": 270,
     "timeWeek": 219,
     "timeMonth": 196,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2022-12-17": 2,
       "2022-12-08": 990,
       "2022-12-07": 394
     }
@@ -152,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/functionlabs.io.ico",
     "slug": "function-labs",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 156,
     "timeDay": 195,
     "timeWeek": 256,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-12-17": 0
+      "2022-12-17": 10
     }
   },
   {
@@ -171,27 +178,29 @@
     "url": "https://scrum.to",
     "icon": "https://icons.duckduckgo.com/ip3/scrum.to.ico",
     "slug": "scrum-to-marketing-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 219,
     "timeDay": 370,
     "timeWeek": 229,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 1
+    }
   },
   {
     "name": "Scrum.to App",
     "url": "https://app.scrum.to",
     "icon": "https://icons.duckduckgo.com/ip3/app.scrum.to.ico",
     "slug": "scrum-to-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,7 +209,9 @@
     "timeWeek": 397,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "Scrum.to API",
