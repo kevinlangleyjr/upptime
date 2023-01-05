@@ -1,7 +1,7 @@
 url: https://api.scrum.to
-status: down
-code: 502
-responseTime: 2119
-lastUpdated: 2023-01-05T20:43:30.676Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2023-01-05T20:49:30.583Z
 startTime: Wed Dec 07 2022 17:05:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
