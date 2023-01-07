@@ -145,11 +145,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubergeni.us.ico",
     "slug": "ubergeni-us-redirect",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "96.84%",
     "time": 237,
     "timeDay": 214,
     "timeWeek": 148,
@@ -246,9 +246,9 @@
     "url": "https://pinbasement.com",
     "icon": "https://icons.duckduckgo.com/ip3/pinbasement.com.ico",
     "slug": "pin-basement",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -257,6 +257,8 @@
     "timeWeek": 149,
     "timeMonth": 167,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-07": 0
+    }
   }
 ]
