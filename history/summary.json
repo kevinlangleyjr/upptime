@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 250,
-    "timeDay": 92,
-    "timeWeek": 112,
-    "timeMonth": 135,
-    "timeYear": 250,
+    "time": 249,
+    "timeDay": 200,
+    "timeWeek": 124,
+    "timeMonth": 139,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2022-12-17": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 188,
-    "timeDay": 88,
-    "timeWeek": 111,
-    "timeMonth": 139,
-    "timeYear": 188,
+    "time": 189,
+    "timeDay": 238,
+    "timeWeek": 137,
+    "timeMonth": 144,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2022-12-17": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 146,
-    "timeDay": 49,
-    "timeWeek": 110,
-    "timeMonth": 145,
-    "timeYear": 146,
+    "time": 147,
+    "timeDay": 221,
+    "timeWeek": 135,
+    "timeMonth": 150,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2022-12-17": 22
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 165,
-    "timeDay": 149,
-    "timeWeek": 162,
-    "timeMonth": 169,
-    "timeYear": 165,
+    "time": 167,
+    "timeDay": 229,
+    "timeWeek": 183,
+    "timeMonth": 173,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2022-12-17": 21
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 161,
-    "timeDay": 148,
-    "timeWeek": 135,
-    "timeMonth": 162,
-    "timeYear": 161,
+    "time": 162,
+    "timeDay": 228,
+    "timeWeek": 145,
+    "timeMonth": 166,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2022-12-17": 20
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 150,
-    "timeDay": 126,
-    "timeWeek": 124,
-    "timeMonth": 149,
-    "timeYear": 150,
+    "time": 151,
+    "timeDay": 232,
+    "timeWeek": 144,
+    "timeMonth": 153,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2022-12-17": 20
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 339,
-    "timeDay": 149,
-    "timeWeek": 177,
-    "timeMonth": 238,
-    "timeYear": 339,
+    "time": 337,
+    "timeDay": 247,
+    "timeWeek": 192,
+    "timeMonth": 200,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2022-12-17": 19
     }
@@ -145,15 +145,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ubergeni.us.ico",
     "slug": "ubergeni-us-redirect",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.75%",
+    "uptimeYear": "97.80%",
     "time": 216,
-    "timeDay": 101,
-    "timeWeek": 124,
-    "timeMonth": 205,
+    "timeDay": 251,
+    "timeWeek": 154,
+    "timeMonth": 209,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2022-12-17": 19,
@@ -173,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 256,
-    "timeDay": 40,
-    "timeWeek": 101,
-    "timeMonth": 106,
+    "timeDay": 272,
+    "timeWeek": 134,
+    "timeMonth": 113,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2022-12-17": 19
@@ -192,11 +192,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 237,
-    "timeDay": 48,
-    "timeWeek": 335,
-    "timeMonth": 238,
-    "timeYear": 237,
+    "time": 240,
+    "timeDay": 375,
+    "timeWeek": 384,
+    "timeMonth": 233,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2022-12-17": 18
     }
@@ -212,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 411,
-    "timeDay": 384,
-    "timeWeek": 328,
-    "timeMonth": 308,
-    "timeYear": 411,
+    "time": 409,
+    "timeDay": 282,
+    "timeWeek": 298,
+    "timeMonth": 314,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2022-12-17": 18
     }
@@ -232,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 335,
-    "timeDay": 387,
-    "timeWeek": 277,
-    "timeMonth": 368,
-    "timeYear": 335,
+    "time": 337,
+    "timeDay": 415,
+    "timeWeek": 290,
+    "timeMonth": 371,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2022-12-17": 17
     }
@@ -247,18 +247,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbasement.com.ico",
     "slug": "pin-basement",
     "status": "down",
-    "uptime": "90.07%",
+    "uptime": "88.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.60%",
-    "uptimeMonth": "85.87%",
-    "uptimeYear": "90.07%",
+    "uptimeWeek": "24.32%",
+    "uptimeMonth": "82.58%",
+    "uptimeYear": "88.03%",
     "time": 195,
     "timeDay": 0,
-    "timeWeek": 147,
-    "timeMonth": 206,
+    "timeWeek": 158,
+    "timeMonth": 209,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-01-20": 1,
+      "2023-01-21": 1,
+      "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
