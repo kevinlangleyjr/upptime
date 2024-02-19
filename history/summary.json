@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 145,
-    "timeDay": 84,
-    "timeWeek": 132,
+    "time": 144,
+    "timeDay": 105,
+    "timeWeek": 134,
     "timeMonth": 125,
-    "timeYear": 130,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2023-03-04": 287
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 167,
-    "timeDay": 92,
-    "timeWeek": 136,
+    "timeDay": 85,
+    "timeWeek": 134,
     "timeMonth": 121,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 156,
-    "timeDay": 62,
-    "timeWeek": 125,
-    "timeMonth": 131,
+    "timeDay": 69,
+    "timeWeek": 119,
+    "timeMonth": 128,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2023-03-04": 287
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangley.dev.ico",
     "slug": "kevinlangley-dev-redirect",
     "status": "up",
-    "uptime": "96.72%",
+    "uptime": "96.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.07%",
     "time": 160,
-    "timeDay": 108,
-    "timeWeek": 160,
-    "timeMonth": 141,
+    "timeDay": 122,
+    "timeWeek": 159,
+    "timeMonth": 139,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2023-03-18": 1421,
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 162,
-    "timeDay": 75,
-    "timeWeek": 157,
-    "timeMonth": 149,
-    "timeYear": 161,
+    "time": 161,
+    "timeDay": 146,
+    "timeWeek": 165,
+    "timeMonth": 147,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2023-03-04": 287
     }
@@ -126,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 162,
-    "timeDay": 79,
-    "timeWeek": 178,
-    "timeMonth": 151,
+    "timeDay": 200,
+    "timeWeek": 188,
+    "timeMonth": 153,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2023-03-18": 1421,
@@ -152,10 +152,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.61%",
     "time": 208,
-    "timeDay": 102,
+    "timeDay": 109,
     "timeWeek": 176,
     "timeMonth": 169,
-    "timeYear": 188,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2023-04-11": 1102,
       "2023-04-10": 1440,
@@ -185,10 +185,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 184,
-    "timeDay": 88,
-    "timeWeek": 154,
-    "timeMonth": 128,
-    "timeYear": 181,
+    "timeDay": 113,
+    "timeWeek": 151,
+    "timeMonth": 129,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2023-03-04": 287
     }
@@ -204,11 +204,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 37,
-    "timeWeek": 133,
-    "timeMonth": 280,
-    "timeYear": 172,
+    "time": 178,
+    "timeDay": 90,
+    "timeWeek": 120,
+    "timeMonth": 278,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -223,10 +223,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 115,
-    "timeWeek": 235,
-    "timeMonth": 207,
-    "timeYear": 230,
+    "timeDay": 136,
+    "timeWeek": 194,
+    "timeMonth": 203,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -235,18 +235,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbasement.com.ico",
     "slug": "pin-basement",
     "status": "up",
-    "uptime": "82.22%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "88.04%",
-    "time": 3385,
-    "timeDay": 3765,
-    "timeWeek": 4473,
-    "timeMonth": 3959,
-    "timeYear": 3579,
+    "uptime": "82.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "88.06%",
+    "time": 3387,
+    "timeDay": 3915,
+    "timeWeek": 4563,
+    "timeMonth": 3976,
+    "timeYear": 3580,
     "dailyMinutesDown": {
-      "2024-02-18": 9,
       "2023-11-15": 298,
       "2023-11-14": 85,
       "2023-11-07": 18,
@@ -296,8 +295,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   }
 ]
