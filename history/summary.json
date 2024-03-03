@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 144,
-    "timeDay": 171,
-    "timeWeek": 112,
-    "timeMonth": 124,
-    "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-03-04": 287
-    }
+    "timeDay": 111,
+    "timeWeek": 121,
+    "timeMonth": 125,
+    "timeYear": 129,
+    "dailyMinutesDown": {}
   },
   {
     "name": "kevinlangleyjr.com Redirect",
@@ -25,19 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.com.ico",
     "slug": "kevinlangleyjr-com-redirect",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 167,
-    "timeDay": 175,
-    "timeWeek": 150,
-    "timeMonth": 127,
+    "time": 166,
+    "timeDay": 110,
+    "timeWeek": 138,
+    "timeMonth": 134,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-04-24": 48,
-      "2023-03-04": 287
+      "2023-04-24": 48
     }
   },
   {
@@ -52,31 +49,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 154,
-    "timeDay": 106,
-    "timeWeek": 92,
-    "timeMonth": 112,
-    "timeYear": 155,
-    "dailyMinutesDown": {
-      "2023-03-04": 287
-    }
+    "timeDay": 50,
+    "timeWeek": 109,
+    "timeMonth": 108,
+    "timeYear": 156,
+    "dailyMinutesDown": {}
   },
   {
     "name": "kevinlangley.dev Redirect",
     "url": "https://kevinlangley.dev",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangley.dev.ico",
     "slug": "kevinlangley-dev-redirect",
-    "status": "up",
-    "uptime": "96.79%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.82%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.07%",
     "time": 160,
-    "timeDay": 275,
-    "timeWeek": 148,
-    "timeMonth": 143,
+    "timeDay": 177,
+    "timeWeek": 161,
+    "timeMonth": 150,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2024-03-03": 0,
       "2023-03-18": 1421,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
@@ -90,8 +86,7 @@
       "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
-      "2023-03-05": 1440,
-      "2023-03-04": 505
+      "2023-03-05": 1440
     }
   },
   {
@@ -106,13 +101,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 161,
-    "timeDay": 198,
-    "timeWeek": 159,
-    "timeMonth": 145,
-    "timeYear": 159,
-    "dailyMinutesDown": {
-      "2023-03-04": 287
-    }
+    "timeDay": 209,
+    "timeWeek": 183,
+    "timeMonth": 155,
+    "timeYear": 161,
+    "dailyMinutesDown": {}
   },
   {
     "name": "k3v0.com Redirect",
@@ -120,24 +113,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3v0.com.ico",
     "slug": "k3v0-com-redirect",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 162,
-    "timeDay": 203,
-    "timeWeek": 142,
-    "timeMonth": 150,
-    "timeYear": 163,
+    "timeDay": 151,
+    "timeWeek": 169,
+    "timeMonth": 158,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2023-03-18": 1421,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
-      "2023-03-13": 1150,
-      "2023-03-04": 287
+      "2023-03-13": 1150
     }
   },
   {
@@ -146,15 +138,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3v0.dev.ico",
     "slug": "k3v0-dev-redirect",
     "status": "up",
-    "uptime": "97.23%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.61%",
     "time": 206,
-    "timeDay": 175,
+    "timeDay": 109,
     "timeWeek": 127,
-    "timeMonth": 159,
+    "timeMonth": 154,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2023-04-11": 1102,
@@ -169,8 +161,7 @@
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
-      "2023-03-30": 576,
-      "2023-03-04": 287
+      "2023-03-30": 576
     }
   },
   {
@@ -184,14 +175,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 183,
-    "timeDay": 138,
-    "timeWeek": 115,
+    "time": 182,
+    "timeDay": 49,
+    "timeWeek": 101,
     "timeMonth": 127,
-    "timeYear": 179,
-    "dailyMinutesDown": {
-      "2023-03-04": 287
-    }
+    "timeYear": 177,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Function Labs",
@@ -205,10 +194,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 227,
-    "timeWeek": 201,
-    "timeMonth": 165,
-    "timeYear": 173,
+    "timeDay": 57,
+    "timeWeek": 164,
+    "timeMonth": 163,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -223,10 +212,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 101,
-    "timeWeek": 132,
-    "timeMonth": 196,
-    "timeYear": 229,
+    "timeDay": 208,
+    "timeWeek": 197,
+    "timeMonth": 205,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -235,16 +224,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbasement.com.ico",
     "slug": "pin-basement",
     "status": "up",
-    "uptime": "82.56%",
+    "uptime": "82.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.14%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "90.49%",
-    "time": 3402,
-    "timeDay": 3470,
-    "timeWeek": 4348,
-    "timeMonth": 4012,
-    "timeYear": 3594,
+    "uptimeYear": "91.48%",
+    "time": 3406,
+    "timeDay": 3218,
+    "timeWeek": 4087,
+    "timeMonth": 4465,
+    "timeYear": 3597,
     "dailyMinutesDown": {
       "2024-02-23": 187,
       "2023-11-15": 298,
@@ -283,11 +272,7 @@
       "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
-      "2023-03-05": 1440,
-      "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440,
-      "2023-03-01": 1440
+      "2023-03-05": 1440
     }
   }
 ]
