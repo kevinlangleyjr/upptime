@@ -4,9 +4,9 @@
     "url": "https://kevinlangleyjr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.dev.ico",
     "slug": "kevinlangleyjr-dev-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 121,
     "timeMonth": 114,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "kevinlangleyjr.com Redirect",
     "url": "https://kevinlangleyjr.com",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.com.ico",
     "slug": "kevinlangleyjr-com-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -34,6 +36,7 @@
     "timeMonth": 256,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2024-06-03": 0,
       "2024-04-24": 158
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://kevinlangley.me",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangley.me.ico",
     "slug": "kevinlangley-me-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +56,9 @@
     "timeWeek": 172,
     "timeMonth": 158,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "kevinlangley.dev Redirect",
@@ -61,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangley.dev.ico",
     "slug": "kevinlangley-dev-redirect",
     "status": "down",
-    "uptime": "80.54%",
+    "uptime": "80.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.97%",
+    "uptimeYear": "74.87%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-06-03": 1,
+      "2024-06-03": 498,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -172,9 +177,9 @@
     "url": "https://jkevinlangley.com",
     "icon": "https://icons.duckduckgo.com/ip3/jkevinlangley.com.ico",
     "slug": "jkevinlangley-com-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,16 +188,18 @@
     "timeWeek": 152,
     "timeMonth": 150,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "k3v0.com Redirect",
     "url": "https://k3v0.com",
     "icon": "https://icons.duckduckgo.com/ip3/k3v0.com.ico",
     "slug": "k3v0-com-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,7 +208,9 @@
     "timeWeek": 170,
     "timeMonth": 163,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "k3v0.dev Redirect",
@@ -209,18 +218,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/k3v0.dev.ico",
     "slug": "k3v0-dev-redirect",
     "status": "down",
-    "uptime": "85.85%",
+    "uptime": "85.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.33%",
+    "uptimeYear": "82.23%",
     "time": 187,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2024-06-03": 1,
+      "2024-06-03": 499,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -293,9 +302,9 @@
     "url": "https://ubergeni.us",
     "icon": "https://icons.duckduckgo.com/ip3/ubergeni.us.ico",
     "slug": "ubergeni-us-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -304,34 +313,38 @@
     "timeWeek": 121,
     "timeMonth": 107,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "Function Labs",
     "url": "https://functionlabs.io",
     "icon": "https://icons.duckduckgo.com/ip3/functionlabs.io.ico",
     "slug": "function-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
+    "time": 174,
     "timeDay": 199,
     "timeWeek": 138,
     "timeMonth": 176,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "Scrum.to Marketing Site",
     "url": "https://scrum.to",
     "icon": "https://icons.duckduckgo.com/ip3/scrum.to.ico",
     "slug": "scrum-to-marketing-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -340,7 +353,9 @@
     "timeWeek": 198,
     "timeMonth": 187,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "Pin Basement",
@@ -348,18 +363,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinbasement.com.ico",
     "slug": "pin-basement",
     "status": "down",
-    "uptime": "75.47%",
+    "uptime": "75.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.71%",
+    "uptimeYear": "84.61%",
     "time": 3463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3393,
     "dailyMinutesDown": {
-      "2024-06-03": 2,
+      "2024-06-03": 499,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
