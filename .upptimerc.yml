@@ -26,8 +26,8 @@ sites:
 #   url: https://app.scrum.to
 # - name: Scrum.to API
 #   url: https://api.scrum.to
-  - name: Pin Basement
-    url: https://pinbasement.com
+  - name: Domnr
+    url: https://domnr.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
