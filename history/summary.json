@@ -28,17 +28,17 @@
     "url": "https://kevinlangleyjr.com",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.com.ico",
     "slug": "kevinlangleyjr-com-redirect",
-    "status": "down",
-    "uptime": "92.53%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
+    "status": "up",
+    "uptime": "92.52%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "90.61%",
     "time": 683,
-    "timeDay": 192,
-    "timeWeek": 414,
-    "timeMonth": 477,
-    "timeYear": 786,
+    "timeDay": 323,
+    "timeWeek": 419,
+    "timeMonth": 476,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-07-09": 1263,
       "2025-07-08": 1440,
@@ -92,7 +92,7 @@
       "2026-04-10": 19,
       "2026-04-20": 32,
       "2026-05-19": 35,
-      "2026-06-07": 5
+      "2026-06-07": 24
     }
   },
   {
@@ -100,17 +100,17 @@
     "url": "https://kevinlangley.me",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangley.me.ico",
     "slug": "kevinlangley-me-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "86.67%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "67.43%",
     "time": 808,
-    "timeDay": 137,
-    "timeWeek": 362,
-    "timeMonth": 465,
-    "timeYear": 940,
+    "timeDay": 289,
+    "timeWeek": 372,
+    "timeMonth": 464,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2025-10-03": 410,
       "2025-10-02": 1440,
@@ -244,7 +244,7 @@
       "2025-11-03": 232,
       "2025-11-16": 21,
       "2025-11-18": 134,
-      "2026-06-07": 0
+      "2026-06-07": 19
     }
   },
   {
