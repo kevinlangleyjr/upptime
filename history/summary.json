@@ -13,7 +13,7 @@
     "time": 199,
     "timeDay": 152,
     "timeWeek": 203,
-    "timeMonth": 205,
+    "timeMonth": 194,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-08-29": 539,
@@ -28,16 +28,16 @@
     "url": "https://kevinlangleyjr.com",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.com.ico",
     "slug": "kevinlangleyjr-com-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "92.79%",
-    "uptimeDay": "95.99%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.36%",
     "time": 713,
-    "timeDay": 850,
-    "timeWeek": 527,
-    "timeMonth": 788,
+    "timeDay": 748,
+    "timeWeek": 542,
+    "timeMonth": 797,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2025-08-29": 539,
@@ -62,7 +62,7 @@
       "2026-05-19": 35,
       "2026-06-07": 24,
       "2026-06-16": 63,
-      "2026-07-25": 58
+      "2026-07-25": 61
     }
   },
   {
@@ -70,17 +70,17 @@
     "url": "https://kevinlangley.me",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangley.me.ico",
     "slug": "kevinlangley-me-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "87.15%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "80.59%",
     "time": 826,
-    "timeDay": 441,
-    "timeWeek": 360,
-    "timeMonth": 357,
-    "timeYear": 895,
+    "timeDay": 415,
+    "timeWeek": 364,
+    "timeMonth": 359,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-10-03": 410,
       "2025-10-02": 1440,
@@ -168,7 +168,7 @@
       "2025-11-18": 134,
       "2026-06-07": 19,
       "2026-06-16": 59,
-      "2026-07-25": 48
+      "2026-07-25": 51
     }
   },
   {
@@ -185,7 +185,7 @@
     "time": 258,
     "timeDay": 232,
     "timeWeek": 192,
-    "timeMonth": 173,
+    "timeMonth": 174,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-08-15": 16,
@@ -337,7 +337,7 @@
     "time": 244,
     "timeDay": 306,
     "timeWeek": 332,
-    "timeMonth": 317,
+    "timeMonth": 315,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2025-08-29": 539,
@@ -374,7 +374,7 @@
     "time": 254,
     "timeDay": 256,
     "timeWeek": 445,
-    "timeMonth": 381,
+    "timeMonth": 384,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-08-29": 539,
@@ -769,7 +769,7 @@
     "time": 295,
     "timeDay": 207,
     "timeWeek": 346,
-    "timeMonth": 334,
+    "timeMonth": 340,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-08-29": 540,
