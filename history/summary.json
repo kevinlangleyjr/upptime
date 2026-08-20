@@ -12,7 +12,7 @@
     "uptimeYear": "99.85%",
     "time": 201,
     "timeDay": 183,
-    "timeWeek": 181,
+    "timeWeek": 178,
     "timeMonth": 196,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -28,16 +28,16 @@
     "url": "https://kevinlangleyjr.com",
     "icon": "https://icons.duckduckgo.com/ip3/kevinlangleyjr.com.ico",
     "slug": "kevinlangleyjr-com-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "92.93%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.35%",
-    "time": 721,
-    "timeDay": 0,
-    "timeWeek": 413,
-    "timeMonth": 409,
+    "time": 722,
+    "timeDay": 985,
+    "timeWeek": 493,
+    "timeMonth": 427,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2025-08-29": 539,
@@ -63,7 +63,7 @@
       "2026-06-07": 24,
       "2026-06-16": 63,
       "2026-07-25": 53,
-      "2026-08-20": 11
+      "2026-08-20": 17
     }
   },
   {
@@ -73,13 +73,13 @@
     "slug": "kevinlangley-me-redirect",
     "status": "up",
     "uptime": "87.40%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "87.72%",
     "time": 875,
     "timeDay": 29203,
-    "timeWeek": 3968,
+    "timeWeek": 4487,
     "timeMonth": 1263,
     "timeYear": 917,
     "dailyMinutesDown": {
@@ -143,8 +143,7 @@
       "2025-11-18": 134,
       "2026-06-07": 19,
       "2026-06-16": 59,
-      "2026-07-25": 48,
-      "2026-08-20": 7
+      "2026-07-25": 48
     }
   },
   {
@@ -160,7 +159,7 @@
     "uptimeYear": "64.71%",
     "time": 256,
     "timeDay": 288,
-    "timeWeek": 243,
+    "timeWeek": 235,
     "timeMonth": 357,
     "timeYear": 219,
     "dailyMinutesDown": {
@@ -311,7 +310,7 @@
     "uptimeYear": "96.58%",
     "time": 252,
     "timeDay": 285,
-    "timeWeek": 330,
+    "timeWeek": 312,
     "timeMonth": 324,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -350,7 +349,7 @@
     "uptimeYear": "99.84%",
     "time": 255,
     "timeDay": 216,
-    "timeWeek": 320,
+    "timeWeek": 317,
     "timeMonth": 353,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -376,7 +375,7 @@
     "uptimeYear": "64.60%",
     "time": 193,
     "timeDay": 94,
-    "timeWeek": 261,
+    "timeWeek": 256,
     "timeMonth": 292,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -526,7 +525,7 @@
     "uptimeYear": "52.83%",
     "time": 125,
     "timeDay": 57,
-    "timeWeek": 136,
+    "timeWeek": 144,
     "timeMonth": 133,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -720,7 +719,7 @@
     "uptimeYear": "99.81%",
     "time": 296,
     "timeDay": 560,
-    "timeWeek": 404,
+    "timeWeek": 426,
     "timeMonth": 403,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -744,7 +743,7 @@
     "uptimeYear": "99.87%",
     "time": 165,
     "timeDay": 192,
-    "timeWeek": 229,
+    "timeWeek": 227,
     "timeMonth": 276,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -768,7 +767,7 @@
     "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 165,
-    "timeWeek": 317,
+    "timeWeek": 320,
     "timeMonth": 341,
     "timeYear": 277,
     "dailyMinutesDown": {}
