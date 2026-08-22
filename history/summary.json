@@ -76,7 +76,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "88.00%",
+    "uptimeYear": "88.08%",
     "time": 876,
     "timeDay": 485,
     "timeWeek": 4493,
@@ -515,12 +515,12 @@
     "url": "https://ubergeni.us",
     "icon": "https://icons.duckduckgo.com/ip3/ubergeni.us.ico",
     "slug": "ubergeni-us-redirect",
-    "status": "up",
-    "uptime": "71.32%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "71.33%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.11%",
+    "uptimeYear": "53.19%",
     "time": 125,
     "timeDay": 177,
     "timeWeek": 148,
@@ -699,7 +699,8 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2026-04-22": 30,
-      "2026-04-30": 37
+      "2026-04-30": 37,
+      "2026-08-22": 0
     }
   },
   {
